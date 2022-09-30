@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1561689989 source:d:\kelly\documents\programas_codeblocks\trabalho_colorindografo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
+1561727384 source:e:\trabalho_colorindografo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

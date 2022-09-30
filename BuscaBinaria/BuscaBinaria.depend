@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1558472543 source:c:\users\lucas\documents\ed2\buscabinaria\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1559858875 source:c:\users\lucas\documents\ed2\grafodirigido\main.c
+	<stdio.h>
+	<stdlib.h>
+
